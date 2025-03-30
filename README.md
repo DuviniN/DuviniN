@@ -19,9 +19,11 @@
 ## 📊 Github Stat
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duvinin&hide_border=true&theme=tokyonight" alt="Profile Details" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duvinin&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" align="top" />
 </div>
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=duvinin&show_icons=true&locale=en&hide_border=true&theme=tokyonight" alt="duvinin" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duvinin&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" align="top" />
+</div>
+<div>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duvinin&theme=tokyonight&hide_border=true" alt="duvinin" />
 </div>
